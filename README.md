@@ -7,7 +7,11 @@
     \data\test  : MATLAB으로 생성한 채널 데이터셋(.mat 파일)  1개 (모델 일반화 성능 테스트용)
 
 A2C.py : A2C 에이전트 코드
+
+
 DDPG.py : DDPG 에이전트 코드
+
+
 DQN.py : DQN 에이전트 코드
 main_RL.py : RL main 환경 코드 (off-policy 모델용)
 main_RL_onpolicy.py : : RL main 코드 (on-policy 모델용)
